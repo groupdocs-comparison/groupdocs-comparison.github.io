@@ -15,7 +15,7 @@
     }
 
     #navigation > li{
-        font-size: 13px;
+        font-size: 14px;
         margin: 0px 7px;
     }
 
@@ -30,12 +30,17 @@
         font-size: 40px;
     }
 
+    #container > h4, #container > h3{
+        font-size: 14px;
+    }
+
     #container > div#product-description{
         margin-top: 35px;
+        font-size: 14px;
     }
 
     #social{
-        font-size: 15px;
+        font-size: 18px;
         bottom: 0;
     }
 

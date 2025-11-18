@@ -25,7 +25,7 @@ a{
 }
 
 #logo > a > img{
-  width: 130px;
+  width: 170px;
 }
 
 #navigation{
@@ -35,7 +35,7 @@ a{
 }
 
 #navigation > li{
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   text-transform: uppercase;
   display: inline;
@@ -46,7 +46,7 @@ a{
   width: 100%;
   position: absolute;
   bottom: 20px;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -73,7 +73,7 @@ a{
 }
 
 #container > h4, #container > h3{
-  font-size: 12px;
+  font-size: 16px;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -84,10 +84,10 @@ a{
 }
 
 #container > div#product-description{
-  font-size: 13px;
+  font-size: 18px;
   margin-top: 70px;
   text-align: center;
-  line-height: 1.5em;
+  line-height: 1.6em;
 }
 
 #container > div#product-description > div{
@@ -98,9 +98,18 @@ a{
 }
 
 #container > div#product-description > a.dot-net{
-  color: #0a9cfe;
+  color: #512BD4;
 }
 
 #container > div#product-description > a.java{
-  color: #ff2a8e;
+  color: #ED8B00;
 }
+
+#container > div#product-description > a.nodejs{
+  color: #68a063;
+}
+
+#container > div#product-description > a.python{
+  color: #3776ab;
+}
+
